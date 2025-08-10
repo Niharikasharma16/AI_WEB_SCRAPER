@@ -1,7 +1,12 @@
 # AI_WEB_SCRAPER
-An AI web scraper using Gemini, brightdata, selenium and other libraries
 
-EXTRACT ALL RELEVANT INFORMATION FROM THE 'URL' AND ORGANISE IT IN A PROPER WAY Grabs the DOM content of URL. Tech Stack used : Python, Streamlit and Selenium
+Developed an automated tool to scrape and extract DOM content from user-provided URLs, simplifying data collection from websites.
+
+Implemented Selenium for browser automation to handle dynamically loaded content, ensuring comprehensive data extraction.
+
+Built a user-friendly interface with Streamlit to input URLs and display the scraped content efficiently.
+
+Tech Stack: Python, Streamlit, Selenium.
 
 STEP-1 Enter Website URL & Click on the Scrape Website. FOR EXAMPLE- https://www.myntra.com/
 
